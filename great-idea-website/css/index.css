@@ -64,25 +64,34 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
-* {
-	border: 1px solid black;
-}
+
 
 h1{
 	 font-size: 60px;
  }
 
-.column {
+.iod {
 	
+	width: 48%;
+	height: 500px;
+	margin: 0;
+	display: inline-block;
 
 }
 
  .right {
-	position: absolute;
-	right: 0%;
-	
-	 }
+	width: 48%;
 
+height: 500px;
+display: inline-block;
+vertical-align: center;
+background-size: 80%;
+	
+
+	 }
+.header {
+	width: 100%;
+}
 
 nav a {
 	display: inline-block;
@@ -90,10 +99,6 @@ nav a {
 
 }
 .left {
-	width: 48%;
-}
-
-.right {
 	width: 48%;
 }
 
