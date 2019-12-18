@@ -64,3 +64,76 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+h1{
+	 font-size: 60px;
+ }
+
+.iod {
+	
+	width: 48%;
+	height: 500px;
+	margin: 0;
+	display: inline-block;
+
+}
+
+ .right {
+	width: 48%;
+
+height: 500px;
+display: inline-block;
+vertical-align: center;
+background-size: 80%;
+	
+
+	 }
+.header {
+	width: 100%;
+}
+
+nav a {
+	display: inline-block;
+	width: 12%;
+
+}
+.left {
+	width: 48%;
+}
+
+.top-section {
+	width: 75%;
+}
+.column {
+	width: 25%;
+}
+	  
+	  h2 {
+		  width: 100%;
+	  }
+	 
+
+.middle-img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+}
+
+.Middle-Section{
+	display: inline-block;
+	margin: 2%;
+	width: 75%;
+	column-count: 3;
+	column-gap: 100px;
+}
+
+.Contact-Section{
+	display: inline-block;
+
+}
+
+footer {
+	text-align: center;
+}
